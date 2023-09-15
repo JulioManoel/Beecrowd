@@ -1,6 +1,6 @@
 <div align="center">
 
-## Beginner (14/336)
+## Beginner (18/336)
 
 | Problem                                                                              | Language | Accept |
 | ------------------------------------------------------------------------------------ | :------: | :----: |
@@ -18,5 +18,9 @@
 | [📂](./1011%20-%20Esfera/) 1011 - Esfera                                             |  Python  |   ✅   |
 | [📂](./1012%20-%20Área/) 1012 - Área                                                 |  Python  |   ✅   |
 | [📂](./1013%20-%20O%20Maior/) 1013 - O Maior                                         |  Python  |   ✅   |
+| [📂](./1014%20-%20Consumo/) 1014 - Consumo                                           |  Python  |   ✅   |
+| [📂](./1015%20-%20Distância%20Entre%20Dois%20Pontos/) 1015 - Distância Entre Dois Pontos |  Python  |   ✅   |
+| [📂](./1016%20-%20Distância/) 1016 - Distância                                       |  Python  |   ✅   |
+| [📂](./1017%20-%20Gasto%20de%20Combustível/) 1017 - Gasto de Combustível             |  Python  |   ✅   |
 
 </div>
