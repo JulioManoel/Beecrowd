@@ -2,8 +2,8 @@
 
 <div align="center">
 
-![Rank Facens](https://img.shields.io/badge/Rank_Facens-171-blue)
-![Rank Global](https://img.shields.io/badge/Rank_Global-59.598-blue)
+![Rank Facens](https://img.shields.io/badge/Rank_Facens-163-blue)
+![Rank Global](https://img.shields.io/badge/Rank_Global-51.865-blue)
 
 </div>
 <br/>
