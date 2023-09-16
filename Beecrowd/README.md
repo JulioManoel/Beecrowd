@@ -1,5 +1,12 @@
 <a href="https://www.beecrowd.com.br"><p align="center"><img src="https://user-images.githubusercontent.com/31783838/144611708-e6c3f393-05f2-4982-8b6d-f0684227e782.png" height="96"/></p></a>
-<br/><br/>
+
+<div align="center">
+
+![Rank Facens](https://img.shields.io/badge/Rank_Facens-171-blue)
+![Rank Global](https://img.shields.io/badge/Rank_Global-59.598-blue)
+
+</div>
+<br/>
 
 ## Beecrowd Solutions
 
