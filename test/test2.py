@@ -1,5 +1,8 @@
+import sys
 from functools import lru_cache
 import time
+
+sys.setrecursionlimit(20000)
 
 @lru_cache()
 def fibo(n):
@@ -10,10 +13,10 @@ def fibo(n):
   else:
     return fibo(n-1) + fibo(n-2)
   
-n = 40
+n = 5
 inicio = time.time()
 
-fibo(n)
+print(fibo(n))
 
 fim = time.time()
 print(f"Tempo: {fim - inicio} segundos")

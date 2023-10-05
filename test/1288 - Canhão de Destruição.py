@@ -1,10 +1,14 @@
 pesos = []
 danos = []
 
-def rec(peso1, dano1, peso2 = -1, dano2 = -1):
-  if peso2 == -1:
+def rec(j, peso1, dano1):
 
-  
+  # if peso2 == -1:
+  #   rec(j, peso1, dano1, pesos[j-1], danos[j-1])
+
+  pesos.append(peso1 + pesos[j-1])
+  danos.append(dano1 + danos[j-1])
+  # rec()
 
 
 test = int(input())
@@ -15,6 +19,6 @@ for i in range(test):
     dano, peso = map(int, input().split())
     pesos.append(peso)
     danos.append(dano)
-    rec(peso, dano)
+    if(j != 0): rec(j, peso, dano)
 
 print(pesos)
