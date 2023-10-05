@@ -6,6 +6,10 @@ This repository contains my solutions to competitive programming problems on var
 - `Beecrowd/`: Solutions to Beecrowd challenges.
 - `HackerRank/`: Solutions to HackerRank challenges.
 
+## Marathon Study Group
+
+- [Study Group Repository](https://github.com/RickelmeDias/CPLab/tree/main)
+
 ## References
 
 - [Beecrowd](https://beecrowd.org/)
